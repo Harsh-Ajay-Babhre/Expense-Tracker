@@ -155,12 +155,6 @@ Feel free to fork this project, submit issues, and contribute! PRs are welcome.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙌 Acknowledgements
 
 Special thanks to all contributors and libraries used in this project, including **spaCy**, **Tkinter**, and **Matplotlib**.
