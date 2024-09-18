@@ -1,0 +1,2 @@
+make a command in the chat bot that you need to extract data from gpay. 
+give certain info on that in the chat bot.
