@@ -1,5 +1,5 @@
 "# Expense-Tracker" 
-Here’s a `README.md` template for your Expense Tracker project on GitHub. It includes an introduction, features, installation steps, usage instructions, and more.
+Here’s a `README.md` template for your Expense Tracker project on GitHub. It includes an introduction, features, installation steps, usage instructions, and more. A few changes have been made recemtly so you might find some new features or bugs. If so, please contact me on - harshbabhre2404@gmail.com, so that i can rectify them and give you the new script as soon as possible. Thank you!
 
 ---
 
